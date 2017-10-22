@@ -1,0 +1,22 @@
+{
+  "name": "example-grunt-project",
+  "version": "1.0.0",
+  "description": "An example Grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcdevelop/grunt-project.git"
+  },
+  "author": "Bruno Panaget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcdevelop/grunt-project/issues"
+  },
+  "homepage": "https://github.com/abcdevelop/grunt-project#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
